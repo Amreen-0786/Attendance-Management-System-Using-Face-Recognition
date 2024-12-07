@@ -4,7 +4,7 @@
 
 
 
-### Project flow & explaination
+### Explaination
 - After you run the project you have to register your face so that system can identify you, so click on register new student
 - After you click a small window will pop up in that you have to enter you ID and name and then click on `Take Image` button
 - After clicking `Take Image` button A camera window will pop up and it will detect your Face and take upto 50 Images(you can change the number of Image it can take) and stored in the folder named `TrainingImage`. more you give the image to system, the better it will perform while recognising the face.
